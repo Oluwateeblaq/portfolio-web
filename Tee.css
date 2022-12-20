@@ -1,0 +1,231 @@
+    * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    
+    .headers {
+        position: sticky;
+        top: 10px;
+        margin: 20px;
+        display: flex;
+        justify-content: space-between;
+        padding: 10px, 50px;
+    }
+    
+    .icon {
+        font-family: arial;
+        font-size: 80px;
+        font-weight: 700;
+        background: linear-gradient( to right, rgb(224, 191, 5), black);
+        -webkit-background-clip: text;
+        color: transparent;
+    }
+    
+    .Home {
+        margin-right: 20px;
+        text-decoration: none;
+        font-family: arial;
+        font-size: 20px;
+        font-weight: bold;
+        color: white;
+        text-transform: capitalize;
+    }
+    
+    body {
+        background-image: url(fotis.jpg);
+        background-size: contain;
+        background-position: center;
+        box-shadow: inset 0 0 0 2000px rgba(255, 255, 255, 0.3);
+    }
+    
+    .Hire {
+        text-decoration: none;
+        padding: 10px;
+        border-radius: 30px;
+        color: white;
+        font-family: arial;
+        font-size: 20px;
+        background-color: rgb(148, 128, 13);
+        border: 2px solid transparent;
+    }
+    
+    .name {
+        display: flex;
+        justify-content: center;
+        margin-top: 100px;
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+    
+    .Tee {
+        margin-top: 70px;
+        margin-right: 30px;
+    }
+    
+    .greet {
+        font-size: 30px;
+        font-family: tahoma;
+        text-align: center;
+        color: white;
+    }
+    
+    .dname {
+        font-family: 'Segoe UI';
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+        letter-spacing: 1px;
+        color: white;
+    }
+    
+    .ola {
+        font-family: 'Segoe UI';
+        font-size: 50px;
+        font-weight: bolder;
+        text-align: center;
+        color: white;
+    }
+    
+    .alias {
+        font-family: 'Segoe UI';
+        font-size: 15px;
+        font-weight: bold;
+        text-align: center;
+        color: white;
+    }
+    
+    .webdev {
+        font-family: 'Segoe UI';
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+        color: white;
+    }
+    
+    .cv {
+        text-decoration: none;
+        padding: 10px;
+        border-radius: 30px;
+        color: white;
+        font-family: arial;
+        font-size: 20px;
+        background-color: rgb(148, 128, 13);
+        border: 2px solid transparent;
+        margin-left: 200px;
+        margin-top: 20px;
+    }
+    
+    .about {
+        margin-top: 50px;
+    }
+    
+    .abt {
+        font-size: 50px;
+        text-align: center;
+        font-family: Tahoma;
+        color: white;
+    }
+    
+    .imgnote {
+        margin-top: 50px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .firstimage {
+        margin-bottom: 50px;
+        border-radius: 50%;
+        height: 400px;
+        width: 400px;
+    }
+    
+    .frontend {
+        margin-left: 20px;
+    }
+    
+    .front {
+        font-family: tahoma;
+        font-size: 25px;
+        text-align: center;
+        color: white;
+    }
+    
+    .end {
+        font-family: tahoma;
+        font-size: 20px;
+        text-align: center;
+        color: white;
+    }
+    
+    .lag {
+        font-family: tahoma;
+        font-size: 20px;
+        text-align: center;
+        color: white;
+    }
+    
+    .note2 {
+        font-family: tahoma;
+        font-size: 20px;
+        text-align: center;
+        font-weight: 200px;
+        color: white;
+    }
+    
+    footer {
+        margin-top: 70px;
+        display: flex;
+        justify-content: space-between;
+        padding-left: 10%;
+        padding-right: 10%;
+        background-color: rgb(66, 64, 64);
+        width: 100%;
+    }
+    
+    .find {
+        font-family: Tahoma;
+        font-size: 20px;
+        padding-top: 100px;
+        color: white;
+    }
+    
+    .face {
+        font-family: Tahoma;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .whats {
+        font-family: Tahoma;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .insta {
+        font-family: Tahoma;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .tweet {
+        font-family: Tahoma;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .email {
+        padding-top: 100px;
+    }
+    
+    .emailme {
+        font-family: Tahoma;
+        font-weight: bold;
+        color: white;
+    }
+    
+    .mail {
+        font-family: Tahoma;
+        color: rgb(255, 255, 255);
+    }
